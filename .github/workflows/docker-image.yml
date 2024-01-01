@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "main" ]
   pull_request:
-    branches: [ "main" ]name: Publish Docker image
+    branches: [ "main" ]
 
 on:
   push:
